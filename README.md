@@ -1,5 +1,5 @@
 # プログラムの概要
-ブラウザでhttp://localhost:8080/helloworldへアクセスすると、「Hello World !」と表示されます。
+ブラウザで http://localhost:8080/helloworld へアクセスすると、「Hello World !」と表示されます。
 # 動作確認
 ＜ブラウザ画面＞</br>
 <kbd><img src="https://github.com/Kito-Java2307/Java-6rdTheme/assets/141001192/e83ca817-d199-4f28-9000-9bb67aa430d7" width="350"></kbd></br>
